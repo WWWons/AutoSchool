@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\avtoschool0.1.props" />
+</Project>
