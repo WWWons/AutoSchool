@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\uchet\\uchet.csproj": {}
+    "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\AutoSchool\\uchet\\uchet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\uchet\\uchet.csproj": {
+    "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\AutoSchool\\uchet\\uchet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\uchet\\uchet.csproj",
+        "projectUniqueName": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\AutoSchool\\uchet\\uchet.csproj",
         "projectName": "uchet",
-        "projectPath": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\uchet\\uchet.csproj",
+        "projectPath": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\AutoSchool\\uchet\\uchet.csproj",
         "packagesPath": "C:\\Users\\vishn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\uchet\\obj\\",
+        "outputPath": "C:\\Users\\vishn\\OneDrive\\Рабочий стол\\uchet\\AutoSchool\\uchet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
