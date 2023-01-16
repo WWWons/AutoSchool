@@ -1,0 +1,12 @@
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.csproj.AssemblyReference.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\bin\Debug\net6.0\AutoSchool.Domain.deps.json
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\bin\Debug\net6.0\AutoSchool.Domain.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\bin\Debug\net6.0\AutoSchool.Domain.pdb
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\refint\AutoSchool.Domain.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\AutoSchool.Domain.pdb
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Domain\obj\Debug\net6.0\ref\AutoSchool.Domain.dll

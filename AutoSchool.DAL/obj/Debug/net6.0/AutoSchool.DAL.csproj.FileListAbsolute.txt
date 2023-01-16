@@ -1,0 +1,15 @@
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\bin\Debug\net6.0\AutoSchool.DAL.deps.json
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\bin\Debug\net6.0\AutoSchool.DAL.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\bin\Debug\net6.0\AutoSchool.DAL.pdb
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.csproj.AssemblyReference.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\refint\AutoSchool.DAL.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.pdb
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\ref\AutoSchool.DAL.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\bin\Debug\net6.0\AutoSchool.Domain.dll
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\bin\Debug\net6.0\AutoSchool.Domain.pdb
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.DAL\obj\Debug\net6.0\AutoSchool.DAL.csproj.CopyComplete

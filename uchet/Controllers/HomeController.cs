@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoSchool.Domain.Entity;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using uchet.Models;
 
@@ -15,9 +16,12 @@ namespace uchet.Controllers
 
         public IActionResult Index()
         {
+           return View();  
+        }
+        public IActionResult Studentvid()
+        {
             return View();
         }
-
         public IActionResult Privacy()
         {
             return View();
