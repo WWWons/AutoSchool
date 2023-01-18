@@ -16,8 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\uchet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vishn/OneDrive/Рабочий стол/uchet/AutoSchool/uchet/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/vishn/OneDrive/Рабочий стол/uchet/AutoSchool/uchet/Views/Home/adminvid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhZG1pbnZpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vishn/OneDrive/Рабочий стол/uchet/AutoSchool/uchet/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vishn/OneDrive/Рабочий стол/uchet/AutoSchool/uchet/Views/Home/Privacy.cshtml]

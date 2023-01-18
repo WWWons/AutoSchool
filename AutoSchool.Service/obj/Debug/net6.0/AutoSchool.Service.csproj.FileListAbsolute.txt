@@ -1,0 +1,5 @@
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Service\obj\Debug\net6.0\AutoSchool.Service.csproj.AssemblyReference.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Service\obj\Debug\net6.0\AutoSchool.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Service\obj\Debug\net6.0\AutoSchool.Service.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Service\obj\Debug\net6.0\AutoSchool.Service.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Рабочий стол\uchet\AutoSchool\AutoSchool.Service\obj\Debug\net6.0\AutoSchool.Service.csproj.CoreCompileInputs.cache

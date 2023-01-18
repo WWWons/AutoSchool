@@ -8,11 +8,13 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.13" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AutoSchool.DAL\AutoSchool.DAL.csproj" />
     <ProjectReference Include="..\AutoSchool.Domain\AutoSchool.Domain.csproj" />
+    <ProjectReference Include="..\AutoSchool.Service\AutoSchool.Service.csproj" />
   </ItemGroup>
 
 </Project>

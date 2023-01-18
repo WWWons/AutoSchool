@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoSchool.Domain", "AutoSc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{D847C6F7-F3F7-4CD9-9A51-E3BEBE5CDC96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchool.DAL", "AutoSchool.DAL\AutoSchool.DAL.csproj", "{49878FCA-6846-4D80-AEDE-810564010C7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoSchool.DAL", "AutoSchool.DAL\AutoSchool.DAL.csproj", "{49878FCA-6846-4D80-AEDE-810564010C7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{2D776B6A-5FEC-4ECC-9644-C67104442F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchool.Service", "AutoSchool.Service\AutoSchool.Service.csproj", "{B066702A-9128-4A02-9CA1-29806EBF9DFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,10 @@ Global
 		{49878FCA-6846-4D80-AEDE-810564010C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49878FCA-6846-4D80-AEDE-810564010C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49878FCA-6846-4D80-AEDE-810564010C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B066702A-9128-4A02-9CA1-29806EBF9DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B066702A-9128-4A02-9CA1-29806EBF9DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B066702A-9128-4A02-9CA1-29806EBF9DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B066702A-9128-4A02-9CA1-29806EBF9DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CAC63323-F764-42A8-A24B-4EF350968909} = {01765FFF-9998-4F97-9423-2C746307DAA2}
 		{49878FCA-6846-4D80-AEDE-810564010C7D} = {D847C6F7-F3F7-4CD9-9A51-E3BEBE5CDC96}
+		{B066702A-9128-4A02-9CA1-29806EBF9DFF} = {2D776B6A-5FEC-4ECC-9644-C67104442F4D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A428065C-7DC9-4695-86D1-7A9915CBB125}

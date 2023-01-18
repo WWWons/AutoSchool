@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Automarket.Domain.Enum
+namespace AutoSchool.Domain.Enum
 {
     public enum Role
     {

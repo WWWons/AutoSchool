@@ -1,4 +1,4 @@
-﻿using Automarket.Domain.Enum;
+﻿using AutoSchool.Domain.Enum;
 
 namespace AutoSchool.Domain.Entity
 {
